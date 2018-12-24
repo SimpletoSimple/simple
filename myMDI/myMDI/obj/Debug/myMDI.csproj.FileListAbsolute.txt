@@ -1,0 +1,10 @@
+C:\Users\Simple\source\repos\myMDI\myMDI\bin\Debug\myMDI.exe.config
+C:\Users\Simple\source\repos\myMDI\myMDI\bin\Debug\myMDI.exe
+C:\Users\Simple\source\repos\myMDI\myMDI\bin\Debug\myMDI.pdb
+C:\Users\Simple\source\repos\myMDI\myMDI\obj\Debug\myMDI.csprojAssemblyReference.cache
+C:\Users\Simple\source\repos\myMDI\myMDI\obj\Debug\myMDI.myForm.resources
+C:\Users\Simple\source\repos\myMDI\myMDI\obj\Debug\myMDI.Properties.Resources.resources
+C:\Users\Simple\source\repos\myMDI\myMDI\obj\Debug\myMDI.csproj.GenerateResource.cache
+C:\Users\Simple\source\repos\myMDI\myMDI\obj\Debug\myMDI.csproj.CoreCompileInputs.cache
+C:\Users\Simple\source\repos\myMDI\myMDI\obj\Debug\myMDI.exe
+C:\Users\Simple\source\repos\myMDI\myMDI\obj\Debug\myMDI.pdb
